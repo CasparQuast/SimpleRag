@@ -1,0 +1,191 @@
+[
+    {
+    "id": "KF-01",
+    "section": "Key figures",
+    "type": "lookup",
+    "question": "Wie hoch war der Auftragseingang (order intake) im ersten Halbjahr 2025?",
+    "answer": "Der Auftragseingang im ersten Halbjahr 2025 betrug 10.352 Mio. €."
+    },
+    {
+        "id": "KF-02",
+        "section": "Key figures",
+        "type": "lookup",
+        "question": "Wie hoch waren die Konzernumsätze (sales) in H1 2025 und wie stark lagen sie prozentual über H1 2024?",
+        "answer": "Die Umsätze lagen in H1 2025 bei 10.265 Mio. € und damit 8,1 % über dem Wert von H1 2024."
+    },
+    {
+        "id": "KF-03",
+        "section": "Key figures",
+        "type": "lookup",
+        "question": "Wie hat sich die Adjusted-EBIT-Marge zwischen H1 2024 und H1 2025 relativ verändert?",
+        "answer": "Die Adjusted-EBIT-Marge stieg von 11,5 % in H1 2024 auf 12,2 % in H1 2025, also um 0,6 Prozentpunkte."
+    },
+    {
+        "id": "KF-04",
+        "section": "Key figures",
+        "type": "lookup",
+        "question": "Wie hat sich der Free Operating Cash Flow zwischen H1 2024 und H1 2025 entwickelt?",
+        "answer": "Der Free Operating Cash Flow verbesserte sich von –85 Mio. € in H1 2024 auf +499 Mio. € in H1 2025, also um 584 Mio. €."
+    },
+    {
+        "id": "KF-05",
+        "section": "Key figures",
+        "type": "reasoning",
+        "question": "Wie stark hat sich die Nettoverschuldung (net cash/debt) am Periodenende im Vergleich zu H1 2024 verändert und in welche Richtung?",
+        "answer": "Die Nettoverschuldung verringerte sich von –4.594 Mio. € auf –3.427 Mio. €, also um 1.167 Mio. €."
+    },
+    {
+        "id": "OI-01",
+        "section": "Order intake",
+        "type": "lookup",
+        "question": "Wie hoch war der Auftragseingang in der Verteidigungssparte (Defence) in H1 2025?",
+        "answer": "Der Auftragseingang im Defence-Segment lag in H1 2025 bei 5.751 Mio. €."
+    },
+    {
+        "id": "OI-02",
+        "section": "Order intake",
+        "type": "reasoning",
+        "question": "Welches der drei operativen Segmente (Aerospace, Defence, Cyber & Digital) zeigte in H1 2025 im Auftragseingang eine leicht positive organische Wachstumsrate im Vergleich zu H1 2024?",
+        "answer": "Nur das Segment Cyber & Digital verzeichnete ein leicht positives organisches Wachstum im Auftragseingang von +0,2 %."
+    },
+    {
+        "id": "OI-03",
+        "section": "Order intake",
+        "type": "lookup",
+        "question": "Wie hoch war die Book-to-Bill-Ratio des Konzerns in H1 2025 und wie lag sie im Vergleich zu H1 2024?",
+        "answer": "Die Book-to-Bill-Ratio betrug in H1 2025 1,01 gegenüber 1,13 im ersten Halbjahr 2024."
+    },
+    {
+        "id": "OI-04",
+        "section": "Order intake",
+        "type": "lookup",
+        "question": "Wie viele Großaufträge mit einem Einzelvolumen von über 100 Mio. € wurden in H1 2025 gebucht und welches Gesamtvolumen hatten sie?",
+        "answer": "Es wurden 10 Großaufträge mit einem Gesamtvolumen von 2.874 Mio. € gebucht."
+    },
+    {
+        "id": "OI-05",
+        "section": "Order intake",
+        "type": "reasoning",
+        "question": "Warum ist der Auftragseingang in den reifen Märkten (mature markets) in H1 2025 im Vergleich zu H1 2024 gesunken?",
+        "answer": "Der Rückgang in reifen Märkten geht vor allem auf eine hohe Vergleichsbasis zurück, da im ersten Halbjahr 2024 zum Beispiel ein großer Auftrag über zwei F126-Fregatten der deutschen Marine gebucht wurde."
+    },
+    {
+        "id": "SA-01",
+        "section": "Sales",
+        "type": "lookup",
+        "question": "Welcher Umsatz wurde im Defence-Segment in H1 2025 erzielt und wie stark lag er prozentual über H1 2024?",
+        "answer": "Im Defence-Segment betrug der Umsatz 5.581 Mio. € und lag damit 13,0 % über dem Wert von H1 2024."
+    },
+    {
+        "id": "SA-02",
+        "section": "Sales",
+        "type": "reasoning",
+        "question": "Welches Segment hat den größten absoluten Umsatzanstieg zwischen H1 2024 und H1 2025 geliefert?",
+        "answer": "Defence lieferte den größten absoluten Umsatzanstieg: Der Umsatz stieg dort von 4.938 Mio. € auf 5.581 Mio. €, also um 643 Mio. €."
+    },
+    {
+        "id": "SA-03",
+        "section": "Sales",
+        "type": "lookup",
+        "question": "Wie haben sich die Umsätze im Segment Cyber & Digital in H1 2025 im Vergleich zu H1 2024 entwickelt (Werte und prozentuale Veränderung)?",
+        "answer": "Die Umsätze im Segment Cyber & Digital gingen von 1.934 Mio. € auf 1.862 Mio. € zurück, was einem Rückgang von 3,7 % entspricht."
+    },
+    {
+        "id": "SA-04",
+        "section": "Sales",
+        "type": "reasoning",
+        "question": "Welche wesentlichen Gründe nennt der Bericht für den Umsatzrückgang im Cyber-Geschäft innerhalb des Segments Cyber & Digital?",
+        "answer": "Im Cyber-Bereich wird der Rückgang u. a. mit Störungen durch die Integration der Imperva-Vertriebsmannschaften und einer verhaltenen Marktnachfrage in den Cyber Services erklärt."
+    },
+    {
+        "id": "SA-05",
+        "section": "Sales",
+        "type": "reasoning",
+        "question": "Wie unterscheiden sich die organischen Wachstumsraten der Umsätze in reifen Märkten (mature markets) und in Schwellenländern (emerging markets) in H1 2025?",
+        "answer": "In H1 2025 lag das organische Umsatzwachstum in reifen Märkten bei +7,4 %, während es in Schwellenländern +10,7 % betrug."
+    },
+    {
+        "id": "AR-01",
+        "section": "Adjusted results",
+        "type": "reasoning",
+        "question": "Welches Segment weist in H1 2025 die höchste Adjusted-EBIT-Marge auf und wie hoch ist sie?",
+        "answer": "Das Segment Cyber & Digital hat mit 14,2 % die höchste Adjusted-EBIT-Marge in H1 2025."
+    },
+    {
+        "id": "AR-02",
+        "section": "Adjusted results",
+        "type": "reasoning",
+        "question": "Wie haben sich Adjusted EBIT und Adjusted-EBIT-Marge des Konzerns insgesamt zwischen H1 2024 und H1 2025 entwickelt?",
+        "answer": "Das Adjusted EBIT stieg von 1.096 Mio. € auf 1.248 Mio. €, und die Adjusted-EBIT-Marge verbesserte sich von 11,5 % auf 12,2 %."
+    },
+    {
+        "id": "AR-03",
+        "section": "Adjusted results",
+        "type": "lookup",
+        "question": "Wie hoch war das Adjusted EBIT im Aerospace-Segment in H1 2025 und welcher Margenwert ergibt sich daraus?",
+        "answer": "Im Aerospace-Segment lag das Adjusted EBIT in H1 2025 bei 252 Mio. €, was einer Marge von 9,1 % des Umsatzes entspricht."
+    },
+    {
+        "id": "FS-01",
+        "section": "Financial situation",
+        "type": "reasoning",
+        "question": "Welche zentrale Ursache nennt der Bericht für den starken Anstieg des Free Operating Cash Flow in H1 2025 im Vergleich zu H1 2024?",
+        "answer": "Der Bericht führt den starken Anstieg des Free Operating Cash Flow vor allem auf eine Verbesserung der Veränderung des Working Capital zurück."
+    },
+    {
+        "id": "FS-02",
+        "section": "Outlook",
+        "type": "lookup",
+        "question": "Welche Spanne für das organische Umsatzwachstum gibt Thales für das Gesamtjahr 2025 in seiner Guidance an?",
+        "answer": "Thales erwartet für 2025 ein organisches Umsatzwachstum zwischen +6 % und +7 %."
+    },
+    {
+        "id": "FS-03",
+        "section": "Outlook",
+        "type": "lookup",
+        "question": "Welche Zielspanne gibt Thales für die Adjusted-EBIT-Marge im Geschäftsjahr 2025 an?",
+        "answer": "Die angestrebte Adjusted-EBIT-Marge für 2025 liegt in einer Spanne von 12,2 % bis 12,4 %."
+    },
+    {
+        "id": "FS-04",
+        "section": "Outlook",
+        "type": "lookup",
+        "question": "Welches Ziel verfolgt Thales für das Book-to-Bill-Verhältnis im Jahr 2025?",
+        "answer": "Thales strebt für 2025 ein Book-to-Bill-Verhältnis von über 1 an."
+    },
+    {
+        "id": "UN-01",
+        "section": "Unanswerable",
+        "type": "missing-info",
+        "question": "Welche Umsatzprognose gibt Thales für das Jahr 2026 im Bereich Verteidigung ab?",
+        "answer": "Diese Information ist im vorliegenden Halbjahresbericht 2025 nicht enthalten."
+    },
+    {
+        "id": "UN-02",
+        "section": "Unanswerable",
+        "type": "missing-info",
+        "question": "Wie hoch ist der Beitrag des Geschäftsbereichs Raumfahrtkommunikation (Space Communications) zum Adjusted EBIT in H1 2025?",
+        "answer": "Der Bericht enthält keine separate Ausweisung eines Geschäftsbereichs Raumfahrtkommunikation."
+    },
+    {
+        "id": "UN-03",
+        "section": "Unanswerable",
+        "type": "missing-info",
+        "question": "Welche spezifischen Maßnahmen plant Thales, um den Cyber-Sicherheitsmarkt in Lateinamerika im Jahr 2025 zu erweitern?",
+        "answer": "Konkrete Maßnahmen für den Cyber-Sicherheitsmarkt in Lateinamerika werden im Bericht nicht beschrieben."
+    },
+    {
+        "id": "UN-04",
+        "section": "Unanswerable",
+        "type": "missing-info",
+        "question": "Welche Umsatzanteile entfielen in H1 2025 auf das Geschäft mit unbemannten Luftfahrtsystemen (UAVs)?",
+        "answer": "Der Bericht enthält keine Umsatzangaben zu einem UAV-spezifischen Geschäftsbereich."
+    },
+    {
+        "id": "UN-05",
+        "section": "Unanswerable",
+        "type": "missing-info",
+        "question": "Welche Veränderungen gab es in den Vorstandsgehältern oder der Vergütungsstruktur zwischen H1 2024 und H1 2025?",
+        "answer": "Der Halbjahresbericht macht keine Angaben zu Vergütungen des Vorstands oder Veränderungen der Vergütungsstruktur."
+    }
+]
